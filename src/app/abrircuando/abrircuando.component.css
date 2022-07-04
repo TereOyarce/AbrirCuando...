@@ -1,0 +1,65 @@
+* {
+  margin:0;
+  padding:0;
+}
+
+body {
+  background-color: #f2f2f2;
+
+
+
+}
+nav{
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #ea8a8a;
+  font-family: 'Petit Formal Script', cursive;
+  color: #f2f2f2;
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+}
+h5{
+  font-family: 'Merriweather', serif;
+  font-weight: lighter;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+.containerTarjetas{
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: repeat(5, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+  margin-top: -4rem;
+
+
+}
+span{
+
+  margin-right: 2rem;
+  margin-left: 2rem;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+font-size: 12px;
+
+}
+.span1 { grid-area: 2 / 2 / 3 / 3; }
+.span2 { grid-area: 2 / 3 / 3 / 4; }
+.span3 { grid-area: 2 / 4 / 3 / 5; }
+.span4 { grid-area: 3 / 4 / 4 / 5; }
+.span5 { grid-area: 3 / 3 / 4 / 4; }
+.span6 { grid-area: 3 / 2 / 4 / 3; }
+.span7 { grid-area: 4 / 2 / 5 / 3; }
+.span8 { grid-area: 4 / 3 / 5 / 4; }
+.span9 { grid-area: 4 / 4 / 5 / 5; }
+.span10 { grid-area: 5 / 2 / 6 / 3; }
+.span11 { grid-area: 5 / 3 / 6 / 4; }
+.span12 { grid-area: 5 / 4 / 6 / 5; }
+
+footer{
+  font-family: 'Merriweather', serif;
+text-align: center;
+font-size: 10px;
+}

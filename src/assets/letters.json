@@ -1,0 +1,76 @@
+[
+
+    {
+      "name": "Necesites recordar algo lindo",
+      "id": 1,
+      "text ": "",
+      "span" : "span1"
+    },
+    {
+      "name": "Te sientas triste",
+      "id": 2,
+      "text ": "",
+      "span" : "span2"
+    },
+    {
+      "name": "Te sientas solo",
+      "id": 3,
+      "text ": "",
+      "span" : "span3"
+    },
+    {
+      "name": "Quieras saber porque te amo",
+      "id": 4,
+      "text ": "",
+      "span" : "span4"
+    },
+    {
+      "name": "Quieras saber cuanto te amo",
+      "id": 5,
+      "text ": "",
+      "span" : "span5"
+    },
+    {
+      "name": "Te sientas inseguro",
+      "id": 6,
+      "text ": "",
+      "span" : "span6"
+    },
+    {
+      "name": "Estés felíz",
+      "id": 7,
+      "text ": "",
+      "span" : "span7"
+    },
+    {
+      "name": "Necesites sonreír",
+      "id": 8,
+      "text ": "",
+      "span" : "span8"
+    },
+    {
+      "name": "Tengas un mal día",
+      "id": 9,
+      "text ": "",
+      "span" : "span9"
+    },
+    {
+      "name": "Me extrañes",
+      "id": 10,
+      "text ": "",
+      "span" : "span10"
+    },
+    {
+      "name": "No hablemos",
+      "id": 11,
+      "text ": "",
+      "span" : "span11"
+    },
+    {
+      "name": "Quieras reír",
+      "id": 12,
+      "text ": "",
+      "span" : "span12"
+    }
+
+]
