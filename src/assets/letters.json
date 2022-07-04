@@ -1,76 +1,74 @@
 [
-
-    {
-      "name": "Necesites recordar algo lindo",
-      "id": 1,
-      "text ": "",
-      "span" : "span1"
-    },
-    {
-      "name": "Te sientas triste",
-      "id": 2,
-      "text ": "",
-      "span" : "span2"
-    },
-    {
-      "name": "Te sientas solo",
-      "id": 3,
-      "text ": "",
-      "span" : "span3"
-    },
-    {
-      "name": "Quieras saber porque te amo",
-      "id": 4,
-      "text ": "",
-      "span" : "span4"
-    },
-    {
-      "name": "Quieras saber cuanto te amo",
-      "id": 5,
-      "text ": "",
-      "span" : "span5"
-    },
-    {
-      "name": "Te sientas inseguro",
-      "id": 6,
-      "text ": "",
-      "span" : "span6"
-    },
-    {
-      "name": "Estés felíz",
-      "id": 7,
-      "text ": "",
-      "span" : "span7"
-    },
-    {
-      "name": "Necesites sonreír",
-      "id": 8,
-      "text ": "",
-      "span" : "span8"
-    },
-    {
-      "name": "Tengas un mal día",
-      "id": 9,
-      "text ": "",
-      "span" : "span9"
-    },
-    {
-      "name": "Me extrañes",
-      "id": 10,
-      "text ": "",
-      "span" : "span10"
-    },
-    {
-      "name": "No hablemos",
-      "id": 11,
-      "text ": "",
-      "span" : "span11"
-    },
-    {
-      "name": "Quieras reír",
-      "id": 12,
-      "text ": "",
-      "span" : "span12"
-    }
-
+  {
+    "name": "Necesites recordar algo lindo",
+    "id": 1,
+    "text": "¿Recuerdas ese primer día en que nos dijimos 'te amo'? Nos emocionamos y lloramos...Fue uno de los días más bonitos, comienzo de nuestra historia, y lo atesoro con mucho cariño",
+    "span": "span1"
+  },
+  {
+    "name": "Te sientas triste",
+    "id": 2,
+    "text": "No sé porque te sientes triste, pero tal como tú siempre me dices, todo tiene una solución, mañana será un nuevo día y las cosas mejorarán, y si no lo hacen podemos aprender algo de ello. Sabes también que yo siempre estáre apoyando, en las buenas y por sobretodo en las malas.",
+    "span": "span2"
+  },
+  {
+    "name": "Te sientas solo",
+    "id": 3,
+    "text": "¿Solo? Quizás fisicamente en este momento, pero sabes que tienes un montón de gente que te quiere mucho y que eres una parte importante de su vida. Tienes una linda familia y unos amigos que te bancan en todo. También me tienes a mi, para todo lo que necesites y quieras.",
+    "span": "span3"
+  },
+  {
+    "name": "Quieras saber porque te amo",
+    "id": 4,
+    "text": "Por lo que eres, y por lo que soy gracias a ti, por todo el cariño que me das cada día, por todo ese apoyo. Por escucharme siempre, por alentarme a ser mejor, por que con cada gesto que tu me das ,me demuestras que conocerte fue lo correcto, y que no hay minuto en que me arrepienta de lo que hemos formado.",
+    "span": "span4"
+  },
+  {
+    "name": "Quieras saber cuanto te amo",
+    "id": 5,
+    "text": "De aquí al infinito, la verdad no sabría medir bien, pero te amo más que ayer, y te amo menos que mañana",
+    "span": "span5"
+  },
+  {
+    "name": "Te sientas inseguro",
+    "id": 6,
+    "text": "Todos tenemos días en que nos sentimos así, pero a veces hay que mirar atrás para darnos cuenta de las cosas. Mira todo lo que has conseguido a tu edad, mira todo lo que tienes. Eres capaz de todo lo que te propongas, eres sumamente inteligente y se que puedes conseguir lo que sea. Eres un modelo a seguir para muchos, lo eres para mí.",
+    "span": "span6"
+  },
+  {
+    "name": "Estés felíz",
+    "id": 7,
+    "text": "¡Me alegro mucho! Te mereces toda la felicidad del mundo, eres una persona fantástica. Si tu eres felíz, yo también lo soy. Espero y lo sigas siendo. ",
+    "span": "span7"
+  },
+  {
+    "name": "Te merezcas un regalo",
+    "id": 8,
+    "text": "Esta cartita es válida por una salida donde tú desees.",
+    "span": "span8"
+  },
+  {
+    "name": "Tengas un mal día",
+    "id": 9,
+    "text": "Espero que este día termine pronto, mañana será un nuevo día y probablemente las cosas funcionen mejor, mucho ánimo !Que nada es eterno.",
+    "span": "span9"
+  },
+  {
+    "name": "Me extrañes",
+    "id": 10,
+    "text": "Yo también te extraño, pero quizás pronto nos veremos, y podremos disfrutar juntitos como siempre, porque cada día a tu lado es una experiencia nueva y rica, y algún día, no tendremos que separarnos más.",
+    "span": "span10"
+  },
+  {
+    "name": "No hablemos",
+    "id": 11,
+    "text": "No sé cual sea la razón, espero dure poco, espero si haya sido producto de una pelea sepamos arreglarlo y perdonarnos, porque nada vale la pena como para estar separados.",
+    "span": "span11"
+  },
+  {
+    "name": "Recibas este regalo",
+    "id": 12,
+    "text": "Hola !, espero y te guste mucho este regalo, la verdad quería regalarte algo único, y que durara por mucho tiempo. Ya llevamos medio añito juntos, y han sido los mejores meses, llegaste en un momento preciso y me iluminaste todo. Gracias por todo lo que me das cada día, por ayudarme a ser mejor, te amo de una manera inmesa, y espero que siga siendo así por mucho tiempo más. Deseo que quieras quedarte a mi lado toda la vida. Te amo y no me cansaré jamás de decirlo. Espero que podamos cumplir todos nuestros proyectos y metas juntos. Wawito pricioso.",
+    "span": "span12"
+  }
 ]

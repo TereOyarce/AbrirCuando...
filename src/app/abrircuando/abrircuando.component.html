@@ -29,16 +29,33 @@
   </nav>
   <div class="containerBody">
     <div class="containerTarjetas">
-      <span *ngFor="let letter of letters; let i = index " [class]="letter.span" [id]="letter.id"><img src="../assets/icons8-sobre-de-amor-50.png"
-          onclick="this.src='../assets/icons8-love-62.png'">{{letter.name}}</span>
+      <app-modal></app-modal>
 
+      <span *ngFor="let letter of letters; let i = index " (click)="open(content)" [class]="letter.span" [id]="letter.id"><img [id]="letter.id" [src]="image"
+          onclick="this.src='../assets/icons8-love-62.png'">{{letter.name}}
+          <ng-template #content let-modal>
+            <div class="modal-header">
 
+              <button type="button" class="btn-close" aria-label="Close" (click)="modal.dismiss('Cross click')"></button>
+            </div>
+            <div class="modal-body">
+            <div ><p class="texto">{{letter.text}}</p>
+            <p style="text-align: center;padding-bottom: 0.5rem;">&#10084;
+            </p></div>
+            </div>
+            <div class="modal-footer">
+
+            </div>
+          </ng-template>
+
+        </span>
 
 
 
     </div>
   </div>
-  <footer class="containerFooter">Made with &#10084; by TereOyarce</footer>
-</body>
 
+</body>
+<footer class="containerFooter">Made with &#10084; by TereOyarce</footer>
+<script src="abrircuando.component.ts"></script>
 </html>

@@ -32,7 +32,8 @@ h5{
   grid-template-rows: repeat(5, 1fr);
   grid-column-gap: 0px;
   grid-row-gap: 0px;
-  margin-top: -4rem;
+  margin-top: -7rem;
+  height: 100vmax;
 
 
 }
@@ -62,4 +63,13 @@ footer{
   font-family: 'Merriweather', serif;
 text-align: center;
 font-size: 10px;
+background-color: #ea8a8a;
+
+  color: #f2f2f2;
+}
+.texto{
+  text-align: center;
+  font-family: 'Merriweather', serif;
+font-weight: lighter;
+padding: 1rem;
 }
